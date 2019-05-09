@@ -1,0 +1,17 @@
+{
+  "name": "solmazchat",
+  "description": "",
+  "main": "",
+  "authors": [
+    "BurakElitas <48959177+BurakElitas@users.noreply.github.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/BurakElitas/solmazchat",
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
+}
